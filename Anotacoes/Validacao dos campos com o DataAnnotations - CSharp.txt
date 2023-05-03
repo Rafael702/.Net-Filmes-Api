@@ -1,0 +1,10 @@
+DataAnnotatios do C#:
+[Required] -> Campo Obrigatorio
+
+[MaxLength] e [StringLength] -> Tamanho do caracter
+[MaxLength(50, ErrorMessage = "O título do filme não pode exceder 50 caracteres")] e 
+[StringLength(50, ErrorMessage = "O Tamanho do Genero Nao pode exceder 50 caracteres")]
+
+[Range] -> Tamanho minimo e/ou maximo de numeros a serem inseridos.
+[Range(70, 600, ErrorMessage = "A Duracao deve ter entre 70 e 600 minutos")]
+
