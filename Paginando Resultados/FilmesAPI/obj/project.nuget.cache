@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UXVtJJvscYmbyDo/MnqYEEaaldhzivZ+ofLJ25Wnxl3DmObQ3CJuL2SGdzqLV/aMv0iwu+5ABVb1V8D9ACj27Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael.Almeida\\Desktop\\Aula\\Alura\\CSharp\\.Net - Api Web\\Paginando Resultados\\FilmesAPI\\FilmesAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael.Almeida\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael.Almeida\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rafael.Almeida\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rafael.Almeida\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rafael.Almeida\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rafael.Almeida\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

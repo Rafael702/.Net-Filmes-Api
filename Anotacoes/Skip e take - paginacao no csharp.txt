@@ -1,0 +1,6 @@
+Paginação - Reduzir o retorno dos dados
+No .Net podemos usar o Skip e o Take.
+
+Exemplo: filmes.Skip(0).Take(10);
+
+A partir de 0, pegue 10 registros
