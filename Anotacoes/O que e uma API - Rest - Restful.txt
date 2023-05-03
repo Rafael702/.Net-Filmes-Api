@@ -1,0 +1,9 @@
+Application Programming Interface
+
+Ponte entre a requisição que queremos realizar e a resposta que esperamos. Porém tem regras.
+
+
+Rest -> Nome da arquitetura
+RestFul -> Quem implementa
+
+REST é um conjunto de princípios e restrições de arquitetura de softwares. Uma API RESTful é aquela que está em conformidade com os critérios estabelecidos pela Transferência de Estado Representacional (REST).
