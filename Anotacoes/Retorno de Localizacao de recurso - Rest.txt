@@ -1,0 +1,5 @@
+Quando criamos um recurso novo no sistema através do verbo POST, há uma convenção do que deve ser retornado caso a requisição tenha sido efetuada com sucesso.
+
+Resposta:
+201 (Created) e a localização de onde o recurso pode ser acessado no nosso sistema.
+Além de informarmos que o recurso foi criado, é importante informarmos onde podemos localizá-lo.
