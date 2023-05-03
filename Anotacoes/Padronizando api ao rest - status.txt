@@ -1,0 +1,8 @@
+IActionResult -> Ação de um Resultado -> Interface Generica
+
+CreatedAtAction -> Qual é o método que retornará o recurso que foi criado? os parametros necessários para a execução do método. Esse método retorna o status 201.
+
+Exemplo:
+return CreatedAtAction(nameof(RecuperaFilmePorId), new { id = filme.Id }, filme);
+
+
