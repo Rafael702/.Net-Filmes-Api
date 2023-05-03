@@ -1,0 +1,11 @@
+ControllerBase -> Necessário para termos acesso aos metodos do controlador do .NET
+
+
+"launchBrowser": true -> abre o navegador assim que a aplicacao for iniciada. 
+
+
+Criando projeto .Net no vscode:
+Podemos usar o terminal e digitar o comando: dotnet new webapi --name nomeProjeto
+
+Rodar projeto:
+dotnet run --project FilmesApi/FilmesApi.csproj
