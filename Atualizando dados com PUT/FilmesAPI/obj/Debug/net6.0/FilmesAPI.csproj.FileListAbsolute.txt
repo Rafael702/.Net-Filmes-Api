@@ -1,0 +1,358 @@
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\bin\Debug\net6.0\FilmesAPI.exe
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\bin\Debug\net6.0\FilmesAPI.deps.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\bin\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CopyComplete
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\refint\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\bin\Debug\net6.0\FilmesAPI.exe
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\bin\Debug\net6.0\FilmesAPI.deps.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\bin\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CopyComplete
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\refint\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recebendo os dados de um filme\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\bin\Debug\net6.0\FilmesAPI.exe
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\bin\Debug\net6.0\FilmesAPI.deps.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\bin\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CopyComplete
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\refint\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Validando os parametros recebidos\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\bin\Debug\net6.0\FilmesAPI.exe
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\bin\Debug\net6.0\FilmesAPI.deps.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\bin\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CopyComplete
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\refint\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Recuperando Filmes Por Id\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\bin\Debug\net6.0\FilmesAPI.exe
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\bin\Debug\net6.0\FilmesAPI.deps.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\bin\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CopyComplete
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\refint\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Paginando Resultados\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\bin\Debug\net6.0\FilmesAPI.exe
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\bin\Debug\net6.0\FilmesAPI.deps.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\bin\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CopyComplete
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\refint\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Padronizando retorno a nivel de rest\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\refint\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\FilmesAPI.exe
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\FilmesAPI.deps.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CopyComplete
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Utilizando Banco de dados\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\FilmesAPI.exe
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\FilmesAPI.deps.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CopyComplete
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\refint\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Realizando operacoes na API\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\FilmesAPI.exe
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\FilmesAPI.deps.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CopyComplete
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\refint\FilmesAPI.dll
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\Rafael.Almeida\Desktop\Aula\Alura\CSharp\.Net - Api Web\Atualizando dados com PUT\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
