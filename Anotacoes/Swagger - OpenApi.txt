@@ -1,0 +1,28 @@
+Explicitar como a descrição é escrita no Swagger.
+/// <summary>
+    /// 
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns> -> xml
+
+OpenApi:
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "FilmesApi", Version = "v1" });
+    var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+    c.IncludeXmlComments(xmlPath);
+});
+
+c.SwaggerDoc("v1", new OpenApiInfo { Title = "FilmesApi", Version = "v1" }); -> Qual é a OpenApi? Quais são as informações dela, exemplo qual é o titulo dela e a sua versão.
+
+Qual é o arquivo xml que estamos escrevendo?
+var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml"; -> Estamos pegando o contexto atual e gerar um arquivo xml.
+
+Qual é o caminho?
+var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile); -> o Caminho está baseado no xmlFile é um BaseDirectory baseado no contextual da aplicação.
+
+c.IncludeXmlComments(xmlPath); -> Permite a execução
+
+No csproj, adicionamos a instrução:
+<GenerateDocumentationFile>true</GenerateDocumentationFile>

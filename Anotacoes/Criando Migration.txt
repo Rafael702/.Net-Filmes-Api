@@ -1,0 +1,19 @@
+Instalando plugins do Banco de dados
+Ir em Ferramentas > Gerenciador de pacotes do NuGet >  Gerenciador de pacotes do NuGet para Solução
+
+Aba Procurar e pesquisar por entity.
+Selecionar a opção: Microsoft .EntityFrameworkCore (instalar versão recente e estável), Microsoft .EntityFrameworkCore.Tools e Pomelo.EntityFrameworkCore.MySql
+
+Para informarmos que a nossa classe model possui um ID, usamos a anotação: [Key]
+
+Rodar o mysql no docker
+docker run --name mysql-filmes -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -d mysql:latest
+
+Devemos abrir o terminal na pasta do projeto (podemos ir em Gerenciador de pacotes do Nuget > Console de Gerenciador de Acessos e rodamos o comando:
+Add-Migration NomeDaClass
+
+Este comando gerará uma pasta chamada Migrations com a classe especificada no comando.
+Este comando builda o projeto e gera o Migrations, se houver algum erro no projeto, deve ser corrigido para que possa ser feito o build
+
+Para a tabela aparecer no banco será necessário usar o comando:
+Update-Database
